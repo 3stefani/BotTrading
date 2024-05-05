@@ -2,7 +2,7 @@
 <p>
 This project is a trading bot designed to execute an automated strategy in the cryptocurrency market, specifically using the Binance exchange platform. The main purpose of the bot is to save time and effort for investors, as well as to eliminate the emotional factor in decision making, which can help reduce the risk associated with manual trading.
 </p>
-##Technologies Used
+## Technologies Used
 
 - Code Editor: **Visual Studio Code**;
 - Programming Language: **Python**;
@@ -10,7 +10,7 @@ This project is a trading bot designed to execute an automated strategy in the c
 	- **Python-Binance**: To interact with the Binance API.
 	- **NumPy**: For numerical calculations and data analysis.
 
-##Installation and Setup
+## Installation and Setup
 **1.- Clone the Repository:**
 ```
 git clone https://github.com/3stefani/BotTrading
